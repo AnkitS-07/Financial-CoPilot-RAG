@@ -1,0 +1,4 @@
+PortfolioName,TradeTypeName,Name,Ticker,Quantity,Price,Principal,TradeDate
+Growth Fund,BUY,Apple Inc,AAPL,20,185.0,3700,2026-06-02
+Growth Fund,SELL,Tesla Inc,TSLA,10,220.0,2200,2026-06-15
+Income Fund,BUY,US Treasury Bond 10Y,TBOND10Y,50,98.0,4900,2026-06-10
