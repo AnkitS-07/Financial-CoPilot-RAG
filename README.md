@@ -14,10 +14,11 @@ a plain-English read on your situation instead of digging through charts.
 - **Investment Simulator** — a Monte Carlo simulation (300 runs) showing a
   10th/50th/90th percentile outcome band for your chosen risk tolerance and
   horizon, plus a live market snapshot with real price history charts.
-- **Ask My Finances** — a retrieval-augmented chatbot (sentence-transformers
-  + FAISS + FLAN-T5, all open-source, no API key needed) that answers
-  questions grounded in your actual dashboard numbers. You can also upload
-  your own holdings/trades CSVs and ask about those too.
+- **Ask My Finances** — a retrieval-augmented chatbot (sentence-transformers + FAISS 
+  (Facebook AI Similarity Search) + FLAN-T5 (Fine-tuned Language Net
+  Text-to-Text Transfer Transformer), all open-source, no API key needed) that 
+  answers questions grounded in your actual dashboard numbers. You can also 
+  upload your own holdings/trades CSVs and ask about those too.
 - **Report** — a one-click downloadable Markdown summary of everything
   above.
 
